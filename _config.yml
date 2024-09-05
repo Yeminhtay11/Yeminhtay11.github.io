@@ -20,11 +20,11 @@
 
 title: သိပ္ပံဆောင်းပါးများ
 email: www.yeminhtay.4@gmail.com
-description: science　and　technology　blog　《သိပ္ပံဆောင်းပါးများ》
+description: Scince and Technology in Myanmar
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Yeminhtay1997
-github_username:  Yeminhtay1997
+twitter_username: yemin
+github_username:  yemin
 
 # Build settings
 theme: minima
