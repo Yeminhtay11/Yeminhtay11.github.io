@@ -3,16 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+## About Me
+Welcome to my blog.
+စာဖတ်သူ အပေါင်း  `မင်္ဂလာပါ ။`
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+စာရေးသူအနေဖြင့် မြန်မာနိုင်ငံ၏ ကလေးငယ်များနှင့် ကျောင်းသား၊ ကျောင်းသူများ၏ အတွေးခေါ်များ၌ သိပ္ပံနည်းကျစွာ တွေးခေါ်တတ်စေရန်နှင့် သိပ္ပံကို အခြေပြု၍ မိမိပတ်ဝန်းကျင်ရှိ ပြဿနာများစွာကို သိပ္ပံရှူထောင့်မှ အမြင်များတိုးလာစေ၍ လက်တွေ့ကျစွာချဉ်းကပ်တတ်စေရန်ရည်ရွယ်သည်။ ယနေ့ခေတ်ကာလ၏ အခြေနေအရ ကလေးသူငယ်များ ပညာသင်ယူရန် အခွင့်လမ်း နည်းပါလာစေပါသည်။ သို့သော် ပညာဟူသည် မည်သို့သော အခြေနေမျိုးတွင်မဆို ဆက်လက်လေ့လာသင်ယူနေရန်လိုအပ်ပါသည်။ ထို့ကြောင့် မိမိ၏ ဆောင်းပါးများသည် ကျောင်းသားများအတွက် အထောက်ကူပြုစေဖို့ မျှော်လင့်ပါသည်။
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Background
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- Graduated in Bachelor of Engineering in Myanmar.
+- Graduated in Master of Science in Foreign.
+- Studying PhD of Science in Foreign.
